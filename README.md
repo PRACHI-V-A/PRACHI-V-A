@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm prachi</h1>
 <h3 align="center">A passionate Learner</h3>
+img align="right" alt="Coding" width="400" src=https://gifs.eco.br/wp-content/uploads/2022/10/gif-de-informatica-44.gif
 
 - 🔭 I’m currently working on **DSA algorithms**
 
