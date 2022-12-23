@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm prachi</h1>
 <h3 align="center">A passionate Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prachi-v-a&label=Profile%20views&color=0e75b6&style=flat" alt="prachi-v-a" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachi-v-a" alt="prachi-v-a" /></a> </p>
 
 - 🔭 I’m currently working on **DSA algorithms**
@@ -37,5 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachi-v-a&show_icons=true&locale=en" alt="prachi-v-a" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-v-a&" alt="prachi-v-a" /></p>
-
-
