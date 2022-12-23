@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm prachi</h1>
 <h3 align="center">A passionate Learner</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prachi-v-a" alt="prachi-v-a" /></a> </p>
-
 - 🔭 I’m currently working on **DSA algorithms**
 
 - 🌱 I’m currently learning **basic DSA and technical blog writing skills**
